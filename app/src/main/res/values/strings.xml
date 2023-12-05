@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapturePicture</string>
+    <string name="showButton">Log.v</string>
+    <string name="hintEdit">Insert tag/s</string>
+    <string name="btnSave">SAVE</string>
+    <string name="btnLoad">LOAD</string>
+    <string name="btnCapture">CAPTURE</string>
+</resources>
